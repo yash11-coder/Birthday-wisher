@@ -7,3 +7,5 @@ Note: I recommend you to create a new email of your choice for this purpose beca
 You need to allow less secure app access if it for Gmail or  you need to generate a password if it is of Yahoo (If you have any doubts regarding this please mail me)
 
 You can automate this program by running it everyday by placing it on a cloud server (like pythonanywhere)
+
+In letter_template foldeer you will see some text files. In all those files replace the last line with your name
